@@ -1,0 +1,32 @@
+C:\Users\murat\source\repos\Barınakv\Barınakv\bin\Debug\Barınakv.exe.config
+C:\Users\murat\source\repos\Barınakv\Barınakv\bin\Debug\Barınakv.exe
+C:\Users\murat\source\repos\Barınakv\Barınakv\bin\Debug\Barınakv.pdb
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.Form1.resources
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.Properties.Resources.resources
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.exe
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.pdb
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.frmsahiplen.resources
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.frmhakkımızda.resources
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.frmiletişim.resources
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.frmeglence.resources
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.frmgiris.resources
+C:\Users\murat\source\repos\Barınakv\Barınakv\obj\Debug\Barınakv.frmkayitt.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\bin\Debug\Barınakv.exe.config
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\bin\Debug\Barınakv.exe
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\bin\Debug\Barınakv.pdb
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.Form1.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.frmeglence.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.frmkayitt.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.frmhakkımızda.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.frmiletişim.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.frmgiris.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.frmsahiplen.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.Properties.Resources.resources
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.csproj.GenerateResource.cache
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.exe
+C:\Users\Eren\Desktop\Barınak Projesi_18.grup\18_grup_Barınak_proje\Barınakv\obj\Debug\Barınakv.pdb

@@ -1,0 +1,8 @@
+Merhaba,
+
+biz bu projemizde Devexpress kullandık. Eğer hata alıyorsanız,
+hatayı chatgpt ye atın ve ardından 
+windows powershell'e bu komutu aktarın
+Get-ChildItem -Path DnesneyeErp_Proje -Recurse -Include .dll  Unblock-File
+
+iyi çalışmalar..

@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\sqlbaglant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\sqlbaglant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\guncelleyay\u0131nla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\guncelleyay\u0131nla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\abstractyay\u0131nla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\abstractyay\u0131nla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\yay\u0131nla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\yay\u0131nla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\frmsahiplen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\frmsahiplen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\frmkayitt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\frmkayitt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\frmileti\u015Fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\frmileti\u015Fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\frmhakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\frmhakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\frmeglence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\frmeglence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|c:\\users\\eren\\desktop\\bar\u0131nak projesi_18.grup\\18_grup_bar\u0131nak_proje\\bar\u0131nakv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83515626-FE1D-4583-8FF1-E1F07CE9D2C6}|Bar\u0131nakv\\Bar\u0131nakv.csproj|solutionrelative:bar\u0131nakv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractYay\u0131nla.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\AbstractYay\u0131nla.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\AbstractYay\u0131nla.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\AbstractYay\u0131nla.cs",
+              "RelativeToolTip": "Bar\u0131nakv\\AbstractYay\u0131nla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:49.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Yay\u0131nla.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Yay\u0131nla.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\Yay\u0131nla.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Yay\u0131nla.cs",
+              "RelativeToolTip": "Bar\u0131nakv\\Yay\u0131nla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:48.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\User.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\User.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\User.cs",
+              "RelativeToolTip": "Bar\u0131nakv\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:47.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sqlbaglant.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Sqlbaglant.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\Sqlbaglant.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Sqlbaglant.cs",
+              "RelativeToolTip": "Bar\u0131nakv\\Sqlbaglant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:47.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Program.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\Program.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Program.cs",
+              "RelativeToolTip": "Bar\u0131nakv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:46.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuncelleYay\u0131nla.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\GuncelleYay\u0131nla.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\GuncelleYay\u0131nla.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\GuncelleYay\u0131nla.cs",
+              "RelativeToolTip": "Bar\u0131nakv\\GuncelleYay\u0131nla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:44.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmsahiplen.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmsahiplen.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\frmsahiplen.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmsahiplen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bar\u0131nakv\\frmsahiplen.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:43.766Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmkayitt.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmkayitt.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\frmkayitt.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmkayitt.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bar\u0131nakv\\frmkayitt.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:43.352Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmileti\u015Fim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmileti\u015Fim.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\frmileti\u015Fim.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmileti\u015Fim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bar\u0131nakv\\frmileti\u015Fim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:42.866Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmhakk\u0131m\u0131zda.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmhakk\u0131m\u0131zda.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\frmhakk\u0131m\u0131zda.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmhakk\u0131m\u0131zda.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bar\u0131nakv\\frmhakk\u0131m\u0131zda.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:42.153Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmgiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmgiris.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\frmgiris.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmgiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bar\u0131nakv\\frmgiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:41.609Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmeglence.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmeglence.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\frmeglence.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\frmeglence.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bar\u0131nakv\\frmeglence.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:40.934Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Form1.cs",
+              "RelativeDocumentMoniker": "Bar\u0131nakv\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Bar\u0131nak Projesi_18.grup\\18_grup_Bar\u0131nak_proje\\Bar\u0131nakv\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bar\u0131nakv\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:15:39.475Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
